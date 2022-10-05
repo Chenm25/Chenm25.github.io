@@ -8,13 +8,13 @@ pin: true
 
 社区
 
- [CSDN](https://www.csdn.net/) | [博客园](https://www.cnblogs.com/) | [稀土掘金](https://juejin.cn/) | [SegmentFault 思否](https://segmentfault.com/) | [知乎](https://www.zhihu.com/) | [微博](https://weibo.com/) | [哔哩哔哩](https://www.bilibili.com/) |
+ [CSDN](https://www.csdn.net/) | [博客园](https://www.cnblogs.com/) | [掘金](https://juejin.cn/) | [思否](https://segmentfault.com/) | [知乎](https://www.zhihu.com/) | [微博](https://weibo.com/) | [哔哩哔哩](https://www.bilibili.com/) |
 
 文献查找
 
- [中国知网](https://www.cnki.net/) | [维普网](http://www.cqvip.com/) | [万方数据知识服务平台](https://new.wanfangdata.com.cn/index.html) | [百度学术](https://xueshu.baidu.com/) | [GFsoso](https://xs.scqylaw.com/) | [深度学术搜索](https://xs.zidianzhan.net/) | [谷歌学术镜像站](http://scholar.scqylaw.com/) |
+ [知网](https://www.cnki.net/) | [万方](https://new.wanfangdata.com.cn/index.html) | [维普](http://www.cqvip.com/) | [百度学术](https://xueshu.baidu.com/) | [GFsoso](https://xs.scqylaw.com/) | [深度学术搜索](https://xs.zidianzhan.net/) | [谷歌学术镜像站](http://scholar.scqylaw.com/) |
 
- [ReadPaper](https://readpaper.com/) | [ResearchGate](https://www.researchgate.net/search/publication) | [Web of Science](https://www.webofscience.com/) | [ERIC - Education Resources Information Center](https://eric.ed.gov/?) |
+ [ReadPaper](https://readpaper.com/) | [ResearchGate](https://www.researchgate.net/search/publication) | [Web of Science](https://www.webofscience.com/) | [ERIC](https://eric.ed.gov/?) |
 
 写作工具
 
