@@ -1,6 +1,6 @@
 ---
 title: 资源分享
-date: 2022-10-5
+date: 2022-10-05
 tags: [blog, share, resource]
 categories: [Blogs]
 pin: false
